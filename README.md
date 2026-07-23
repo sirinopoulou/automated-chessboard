@@ -181,7 +181,7 @@ The prototype includes:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/automated-chessboard.git
+git clone https://github.com/sirinopoulou/automated-chessboard.git
 cd automated-chessboard
 ```
 
