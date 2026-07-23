@@ -1,0 +1,7 @@
+faster-whisper
+numpy
+python-chess
+pyserial
+sounddevice
+soundfile
+webrtcvad
