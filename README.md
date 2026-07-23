@@ -1,5 +1,11 @@
 # Automated Chessboard with Voice Interface
 
+<p align="center">
+  <img src="assets/automated-chessboard-overview.png"
+       alt="Automated Chessboard with Voice Interface"
+       width="900">
+</p>
+
 A mechatronic chess system that combines a CoreXY motion mechanism, an electromagnet, voice recognition, chess-rule validation, and the Stockfish chess engine to move physical chess pieces automatically.
 
 The project was developed as a diploma thesis in the Department of Production and Management Engineering at Democritus University of Thrace.
