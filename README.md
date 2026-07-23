@@ -170,6 +170,33 @@ The prototype includes:
 - Computer or embedded host for Python execution
 - Custom physical chessboard and captured-piece storage areas
 
+## Prototype Details
+
+### CoreXY Motion Mechanism
+
+<p align="center">
+  <img src="assets/corexy-mechanism.jpeg"
+       alt="CoreXY motion mechanism"
+       width="800">
+</p>
+
+### Electromagnet Carriage
+
+<p align="center">
+  <img src="assets/electromagnet-carriage.jpeg"
+       alt="Electromagnet carriage and stepper motor assembly"
+       width="600">
+</p>
+
+### Electronics Compartment
+
+<p align="center">
+  <img src="assets/electronics-compartment.png"
+       alt="Arduino, motor drivers and power electronics"
+       width="600">
+</p>
+
+
 ## Software
 
 - Python 3
